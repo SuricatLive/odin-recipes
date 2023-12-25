@@ -1,16 +1,33 @@
 * {
-    background-color: rgb(236, 236, 236);
-    color: rgb(0, 49, 0);
+    background-color: rgb(160, 160, 160);
+    color: rgb(0, 0, 0);
     text-align: center;
 }
 
-h1,
-h2 {
-    color: black;
+
+
+.rezeptkachel {
+    background-color: rgb(247, 247, 247);
+    width: 400px;
+    height: 350px;
+    margin: 10px;
+    margin-bottom: 0px;
+    border: 50px;
+    border-color: black;
+    
+
 }
 
-p {
-    text-align: center;
-
+.imgrezeptkachel {
+    margin: 0px;
 
 }
+
+.linkrezeptkachel {
+    background-color: rgb(247, 247, 247);
+    margin: 0px;
+    padding: 3px;
+    padding-top: 3px;
+
+}
+
